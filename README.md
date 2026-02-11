@@ -1,4 +1,4 @@
-# Omics | Population Genomics Toolkit
+# Omics Toolkit for Population-Level Genomic Inference
 
 **Author:** Dr Tahir Ali  
 **Date:** 2024  
