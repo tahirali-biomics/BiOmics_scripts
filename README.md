@@ -1,7 +1,5 @@
 # Omics Population Genomics Toolkit
 
-# Omics Population Genomics Toolkit
-
 **Author:** Dr Tahir Ali  
 **Date:** 2024  
 **Languages:** Python, Bash, Perl, R  
