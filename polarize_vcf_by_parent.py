@@ -5,7 +5,7 @@
 ================================================================================
 PARENT-BASED REF/ALT SWITCHING & VCF POLARIZATION SCRIPT
 ================================================================================
-Author: Dr Tahir Ali | https://tahirali-biomics.github.io/
+Author: Tahir Ali | https://tahirali-biomics.github.io/
 Date: 11.02.2026
 
 Adapted from: Kristian Ullrich's polarizeVCFbyOutgroup.py (2021)
